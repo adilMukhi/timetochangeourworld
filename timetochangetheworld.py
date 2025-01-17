@@ -3,6 +3,7 @@ Python Code
 Author: Adil Mukhi
 Script Name: timeToChangeOurWorld
 Song Title: Time to Change Our World
+Link: https://earsketch.gatech.edu/earsketch2/?sharing=6Ta5056BwBFyXdb0GyFjxQ
 
 "Time to Change Our World" is a song that uses upbeat rhythms and melodies to promote Indigenous peoples' rights and
 emphasize their battles for acknowledgment and justice. It is meant to bring awareness to the indigenous peoples,
